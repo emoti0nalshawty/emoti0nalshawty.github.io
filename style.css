@@ -31,7 +31,7 @@ body{
     padding: 0 15px;
 }
 .header{
-    background-image: url('/images/back.jpg');
+    background-image: url('/images/compressed/back.jpg');
     height: 755px;
     background-position: center center;
     background-repeat: no-repeat;
